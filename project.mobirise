@@ -62,7 +62,8 @@
     "witsec-white-label": true,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "site_lang": "pt"
+    "site_lang": "pt",
+    "usedWebp": true
   },
   "pages": {
     "index.html": {
